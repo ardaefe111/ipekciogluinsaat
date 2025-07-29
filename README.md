@@ -22,49 +22,49 @@ Bu proje, İpekçioğlu İnşaat firması için geliştirilen bir kurumsal web s
 ### 🏠 Kullanıcı Arayüzü
 
 **Ana Sayfa**  
-![Ana Sayfa](screenshots/homepage-1.png)  
-![Ana Sayfa 2](screenshots/homepage-2.png)  
-![Ana Sayfa 3](screenshots/homepage-3.png)  
-![Ana Sayfa 4](screenshots/homepage-4.png)
+![Ana Sayfa](screenshots/homepage-1.PNG)  
+![Ana Sayfa 2](screenshots/homepage-2.PNG)  
+![Ana Sayfa 3](screenshots/homepage-3.PNG)  
+![Ana Sayfa 4](screenshots/homepage-4.PNG)
 
 **Hakkımızda**  
-![Hakkımızda](screenshots/about.png)
+![Hakkımızda](screenshots/about.PNG)
 
 **İletişim**  
-![İletişim](screenshots/contact.png)
+![İletişim](screenshots/contact.PNG)
 
 **Projeler**  
-![Projeler](screenshots/projects.png)
+![Projeler](screenshots/projects.PNG)
 
 **Proje Detay (Kullanıcı)**  
-![Proje Detay 1](screenshots/project-detail-1.png)  
-![Proje Detay 2](screenshots/project-detail-2.png)
+![Proje Detay 1](screenshots/project-detail-1.PNG)  
+![Proje Detay 2](screenshots/project-detail-2.PNG)
 
 ---
 
 ### 🔐 Yönetici Paneli
 
 **Admin Giriş Sayfası**  
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](screenshots/admin-login.PNG)
 
 **Admin Anasayfa**  
-![Admin Anasayfa](screenshots/admin-home.png)
+![Admin Anasayfa](screenshots/admin-home.PNG)
 
 **Projeleri Yönet (Listeleme)**  
-![Admin Projeler](screenshots/admin-projects.png)
+![Admin Projeler](screenshots/admin-projects.PNG)
 
 **Proje Detay (Admin)**  
-![Admin Proje Detay 1](screenshots/admin-project-detail-1.png)  
-![Admin Proje Detay 2](screenshots/admin-project-detail-2.png)
+![Admin Proje Detay 1](screenshots/admin-project-detail-1.PNG)  
+![Admin Proje Detay 2](screenshots/admin-project-detail-2.PNG)
 
 **Proje Ekleme Sayfası**  
-![Admin Proje Ekle](screenshots/admin-project-add.png)
+![Admin Proje Ekle](screenshots/admin-project-add.PNG)
 
 **İletişim Talepleri**  
-![Admin Talepler](screenshots/admin-messages.png)
+![Admin Talepler](screenshots/admin-messages.PNG)
 
 **Talep Detayı**  
-![Admin Talep Detay](screenshots/admin-message-detail.png)
+![Admin Talep Detay](screenshots/admin-message-detail.PNG)
 
 ---
 
@@ -80,6 +80,6 @@ Bu proje, İpekçioğlu İnşaat firması için geliştirilen bir kurumsal web s
 
 ## ✍️ Geliştirici
 
-**Arda Efe**  
-📧 E-posta: [senin mail adresin]  
-🌐 GitHub: [https://github.com/senin-kullanici-adin](https://github.com/senin-kullanici-adin)
+**Arda Efe Dündar**  
+📧 E-posta: ardaefedundar@hotmail.com 
+🌐 GitHub: [https://github.com/senin-kullanici-adin](https://github.com/ardaefe111)
