@@ -82,4 +82,4 @@ Bu proje, İpekçioğlu İnşaat firması için geliştirilen bir kurumsal web s
 
 **Arda Efe Dündar**  
 📧 E-posta: ardaefedundar@hotmail.com 
-🌐 GitHub: [https://github.com/senin-kullanici-adin](https://github.com/ardaefe111)
+🌐 GitHub: [https://github.com/ardaefe111](https://github.com/ardaefe111)
